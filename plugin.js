@@ -15,7 +15,7 @@ module.exports = (() => {
 			name: "Augustas Laughter",
 			authors: [{
 				name: "ThanCrac",
-				discord_id: "557388558017495046"
+				discord_id: "173813885948788736"
 			}],
 			version: "1.0.0",
 			description: "Plays DINGDINGDING when motiejus = laugh",
