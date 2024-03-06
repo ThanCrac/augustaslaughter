@@ -30,4 +30,4 @@ Hit and run the judge {action:has}
 Caught smelling [feet|flowers|joe biden] {action:has been}
 Caught on sale for [1-99] cents {action:has been}
 
-[Crime, #Occurence, hidden] What's in court today? Well... [Victim] [#Occurence, hidden, as action] [#Occurence]
+What's in court today? Well... [Victim] [Crime, #Occurence, as action] [#Occurence]
