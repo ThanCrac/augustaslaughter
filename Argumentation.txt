@@ -1,11 +1,11 @@
 $name : Argument Generator
 $author : Thanos Cracker
 $description : Generates random things to argue about
-$amount : 4
+$amount : 1
 
 $button : Create an argument
 
-$Victim
+$victim
 George Orwell
 My Grandma
 Motiejus
@@ -20,14 +20,18 @@ LIDL
 Maxima
 Norfa
 
-$Crime
+
+$crime
 Fucked my dad {action:has}
 Smells nice
 Smells bad
-Ate [1-10000] olives {action:has}
+eaten a million olives {action:has}
 Impaled an orphan {action:has}
 Hit and run the judge {action:has}
-Caught smelling [feet|flowers|joe biden] {action:has been}
-Caught on sale for [1-99] cents {action:has been}
+Caught smelling feet {action:has been}
+Caught on sale for 99 cents {action:has been}
+Caught saying slurs [action:has been]
 
-What's in court today? Well... [Victim] [Crime, #Occurence, as action] [#Occurence]
+
+$output
+[crime, #occurence, hidden] What's in court today? Well... [victim] [crime, #occurence, hidden, as action, or sleeping] [#occurence]
