@@ -1,0 +1,33 @@
+$name : Argument Generator
+$author : Thanos Cracker
+$description : Generates random things to argue about
+$amount : 4
+
+$button : Create an argument
+
+$Victim
+George Orwell
+My Grandma
+Motiejus
+Naglis
+Laurynas
+Kristupas
+A long dildo
+JOE BIDEN
+BARACK OBAMA!?!
+Klaidas
+LIDL
+Maxima
+Norfa
+
+$Crime
+Fucked my dad {action:has}
+Smells nice
+Smells bad
+Ate [1-10000] olives {action:has}
+Impaled an orphan {action:has}
+Hit and run the judge {action:has}
+Caught smelling [feet|flowers|joe biden] {action:has been}
+Caught on sale for [1-99] cents {action:has been}
+
+[$Crime, $Occurence, hidden] [Victim] [$Occurence, hidden, as action] [$Occurence]
