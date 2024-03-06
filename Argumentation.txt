@@ -34,4 +34,4 @@ Caught saying slurs [action:has been]
 
 
 $output
-[crime, #occurence, hidden]What's in court today? Well... [victim] [as action] [#occurence]
+[victim] [crime, #occurence, as action] [#occurence]
